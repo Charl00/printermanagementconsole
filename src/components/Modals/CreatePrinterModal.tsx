@@ -80,7 +80,7 @@ export default function CreatePrinterModal({ closeModal, isOpen }: UpdatePrinter
                     Create New Printer
                   </Dialog.Title>
                   <div className="mt-2">
-                    <p className="text-sm text-gray-500">Update the settings of your print.</p>
+                    <p className="text-sm text-gray-500">Create a new printer</p>
                   </div>
                   <div className="mt-4">
                     <label className="block text-sm font-medium text-gray-700">Printer Name</label>
