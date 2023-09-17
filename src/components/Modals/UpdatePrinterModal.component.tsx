@@ -79,7 +79,7 @@ export default function UpdatePrinterModal({ printerItem, closeModal }: UpdatePr
                     Update Printer {printerItem.printer_name}
                   </Dialog.Title>
                   <div className="mt-2">
-                    <p className="text-sm text-gray-500">Update the settings of your print.</p>
+                    <p className="text-sm text-gray-500">Update the settings of your printer</p>
                   </div>
 
                   <div className="mt-4">
