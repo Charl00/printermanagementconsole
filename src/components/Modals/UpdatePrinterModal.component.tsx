@@ -1,4 +1,5 @@
-import { Printer, PrinterDataContext, PrinterStatus } from "@/context/printer-data.context";
+import { PrinterDataContext } from "@/context/printer-data.context";
+import { Printer, PrinterStatus } from "@/interfaces/Printer.interface";
 import { isIpCorrect } from "@/utils/strings";
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useContext, useState } from "react";
